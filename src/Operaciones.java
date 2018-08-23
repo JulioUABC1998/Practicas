@@ -1,0 +1,4 @@
+
+public enum Operaciones {
+	SUMA, RESTA, MULTIPLICACION, DIVISION; 
+}
