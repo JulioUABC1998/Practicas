@@ -8,6 +8,8 @@ public class TEST {
 		for(Operaciones elemento:Operaciones.values())
 		{
 		System.out.println(elemento.getValor());
+		System.out.println(elemento.name());
+		
 		}
 	}
 }
